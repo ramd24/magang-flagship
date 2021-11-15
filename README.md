@@ -11,4 +11,4 @@ Compiler yang dipakai: *ChibiStudio*\
 
 **List Issues**
 1. Percobaan Compiling - https://github.com/ramd24/magang-flagship/issues/1
-2. Percobaan Flashing -
+2. Percobaan Flashing - https://github.com/ramd24/magang-flagship/issues/2
